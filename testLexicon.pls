@@ -9,4 +9,11 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="i
         <grapheme>W3C</grapheme>
         <alias>World Wide Web Consortium</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>Unix</grapheme>
+        <grapheme>UNIX</grapheme>
+        <alias>a multiplexed information and computing service</alias>
+        <phoneme>ˈjuːnɪks</phoneme>
+        <!-- IPA string is: "&#x02C8;ju&#x02D0;n&#x026A;ks" -->
+    </lexeme>
 </lexicon>
