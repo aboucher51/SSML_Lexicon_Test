@@ -5,5 +5,8 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="x
         <grapheme>desiree</grapheme>
         <phoneme>dEzir\eI</phoneme>
     </lexeme>
-
+    <lexeme>
+        <grapheme>W3C</grapheme>
+        <alias>World Wide Web Consortium</alias>
+    </lexeme>
 </lexicon>
